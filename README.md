@@ -1,42 +1,45 @@
-SS Color Markers Project
-This is a small but colorful project built as part of freeCodeCamp's Responsive Web Design Certification. The goal of this challenge is to learn and practice how CSS colors work by building a set of colored markers using basic HTML and CSS.
+# CSS Color Markers Project
 
-📚 What I Learned
-How to apply different CSS color formats (e.g., named colors, hex, rgba)
+This is a small but colorful project built as part of freeCodeCamp's Responsive Web Design Certification.  
+The goal of this challenge is to learn and practice how CSS colors work by building a set of colored markers using basic HTML and CSS.
 
-How to use background-color and border properties to style elements
+## What I Learned
 
-How to use the border-left shorthand to simplify CSS code
+- How to apply different CSS color formats (named colors, hex, rgba)
+- How to use `background-color` and `border` properties
+- How to use the `border-left` shorthand to simplify code
+- How to create simple layouts with visual styling
 
-How layout and styling interact to create visually appealing UI elements
+## Tech Used
 
-💻 Tech Used
-HTML5
+- HTML
+- CSS
 
-CSS3
+## Project Features
 
-🖌️ Project Features
-Three colored markers (Red, Green, Blue)
+- Three markers: red, green, and blue
+- Each marker includes a cap and a sleeve
+- Use of `rgba()` to create transparency
+- Clean styling using `border-left` shorthand
 
-Each marker includes a colored cap and a semi-transparent sleeve
+## Preview
 
-Custom styling using the border-left shorthand property
+You can view a screenshot of the result below:
 
-🔍 Preview
-Here's a quick look at the final result:
+![Screenshot](./Screenshot.png)
 
+## Files Included
 
-📁 Files Included
-index.html: Markup for the markers
+- `index.html` – Contains the HTML structure
+- `styles.css` – Contains the CSS styling
 
-styles.css: Styling for the cap and sleeve components
+## How to Run
 
-🚀 How to Run
-Clone the repo or download the files.
+1. Download or clone this repository.
+2. Open the `index.html` file in a browser.
+3. Observe the styled markers.
 
-Open index.html in your browser.
+## Notes
 
-Enjoy the colorful marker layout and inspect the CSS!
-
-🧠 Notes
-This project was part of Step 82 in freeCodeCamp's "Learn CSS Colors by Building a Set of Colored Markers" course. It focuses on using the border-left shorthand to clean up and simplify styling code.
+This was completed in Step 82 of freeCodeCamp's "Learn CSS Colors by Building a Set of Colored Markers" project.  
+It demonstrates how to use the `border-left` shorthand property effectively to simplify CSS.
