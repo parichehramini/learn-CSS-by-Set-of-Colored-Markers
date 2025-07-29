@@ -1,50 +1,37 @@
-# 🎨 CSS Color Markers Project
+# 🎨 CSS Color Markers
 
-This is a small but colorful project built as part of [freeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/learn/).  
-The goal of this challenge is to learn and practice how CSS colors work by building a set of colored markers using basic HTML and CSS.
+A mini project built as part of freeCodeCamp’s Responsive Web Design Certification.  
+This challenge was about learning different CSS color formats by building colored markers.
 
-## 📚 What I Learned
+## 📘 What I Learned
 
-- 🎨 How to apply different CSS color formats (`named colors`, `hex`, `rgba`)
-- 💡 How to use `background-color` and `border` properties
-- ✂️ How to simplify code using the `border-left` shorthand
-- 🧱 How layout and styling work together for clean UI design
+- CSS color types: `hex`, `rgb`, `rgba`, `hsl`, `hsla`
+- Using `linear-gradient()` to blend multiple colors
+- Styling with `box-shadow` and `border-left`
+- Organizing HTML structure with `div` and `class`
 
-## 💻 Tech Used
+## 💡 Features
 
-- ⚙️ HTML5  
-- 🎨 CSS3
+- Three beautiful markers: Red, Green, Blue 🖍️
+- Caps with solid colors and sleeves with transparency
+- Clean design with subtle shadows and gradients
 
-## 🖌️ Project Features
+## 📁 Files
 
-- 🖍️ Three colored markers: **Red**, **Green**, and **Blue**
-- 🧢 Each marker includes a **cap** and a **sleeve**
-- 🌫️ Semi-transparent sleeve using `rgba()`
-- 📏 Clean border styling with `border-left`
+- `index.html` – HTML structure
+- `styles.css` – All the marker styles
 
-## 🔍 Preview
+## 🖼️ Preview
 
-Here's a quick look at the final result:
-<img width="364" height="472" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/a01ac881-e01c-479a-a1a4-4db17fb68921" />
+<img width="404" height="266" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/d8d66114-c1f9-4f1c-b1dd-8e90452338a3" />
 
 
+## 🚀 How to Use
 
-## 📁 Files Included
-
-- `index.html` → Markup for the markers  
-- `styles.css` → Styling for the cap and sleeve
-
-## 🚀 How to Run
-
-1. Clone the repo or download the files.  
-2. Open `index.html` in your browser.  
-3. Enjoy the colorful marker layout and explore the CSS in action!
-
-## 🧠 Notes
-
-This project was built in **Step 82** of the _"Learn CSS Colors by Building a Set of Colored Markers"_ lesson on freeCodeCamp.  
-It focuses on using the `border-left` shorthand property to clean up repetitive code.
+1. Clone or download the repo  
+2. Open `index.html` in your browser  
+3. Explore the color styles in `styles.css`
 
 ---
 
-✨ Built with patience and love for colors.
+✅ Completed in **Step 94** of freeCodeCamp's "CSS Color Markers" project.
