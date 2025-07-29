@@ -25,6 +25,7 @@ The goal of this challenge is to learn and practice how CSS colors work by build
 ## 🔍 Preview
 
 Here's a quick look at the final result:
+<img width="364" height="472" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/a01ac881-e01c-479a-a1a4-4db17fb68921" />
 
 
 
